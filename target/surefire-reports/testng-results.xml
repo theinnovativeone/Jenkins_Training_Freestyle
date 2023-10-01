@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-10-01T13:46:25 IST" name="Suite" finished-at="2023-10-01T13:46:53 IST" duration-ms="27846">
+    <groups>
+    </groups>
+    <test started-at="2023-10-01T13:46:25 IST" name="Test" finished-at="2023-10-01T13:46:53 IST" duration-ms="27846">
+      <class name="tests.LoginTests">
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.LoginTests@7722c3c3]" started-at="2023-10-01T13:46:25 IST" name="setup" finished-at="2023-10-01T13:46:30 IST" duration-ms="5251" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyLoginWithInvalidCredentials()[pri:0, instance:tests.LoginTests@7722c3c3]" started-at="2023-10-01T13:46:30 IST" name="verifyLoginWithInvalidCredentials" finished-at="2023-10-01T13:46:30 IST" duration-ms="393" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginWithInvalidCredentials -->
+        <test-method is-config="true" signature="closeDown()[pri:0, instance:tests.LoginTests@7722c3c3]" started-at="2023-10-01T13:46:30 IST" name="closeDown" finished-at="2023-10-01T13:46:31 IST" duration-ms="249" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.LoginTests@7722c3c3]" started-at="2023-10-01T13:46:31 IST" name="setup" finished-at="2023-10-01T13:46:34 IST" duration-ms="3531" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyLoginWithInvalidUsernameAndValidPassword()[pri:0, instance:tests.LoginTests@7722c3c3]" started-at="2023-10-01T13:46:34 IST" name="verifyLoginWithInvalidUsernameAndValidPassword" finished-at="2023-10-01T13:46:35 IST" duration-ms="415" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginWithInvalidUsernameAndValidPassword -->
+        <test-method is-config="true" signature="closeDown()[pri:0, instance:tests.LoginTests@7722c3c3]" started-at="2023-10-01T13:46:35 IST" name="closeDown" finished-at="2023-10-01T13:46:35 IST" duration-ms="300" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.LoginTests@7722c3c3]" started-at="2023-10-01T13:46:35 IST" name="setup" finished-at="2023-10-01T13:46:38 IST" duration-ms="3475" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyLoginWithValidCredentials()[pri:0, instance:tests.LoginTests@7722c3c3]" started-at="2023-10-01T13:46:38 IST" name="verifyLoginWithValidCredentials" finished-at="2023-10-01T13:46:39 IST" duration-ms="466" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginWithValidCredentials -->
+        <test-method is-config="true" signature="closeDown()[pri:0, instance:tests.LoginTests@7722c3c3]" started-at="2023-10-01T13:46:39 IST" name="closeDown" finished-at="2023-10-01T13:46:39 IST" duration-ms="248" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.LoginTests@7722c3c3]" started-at="2023-10-01T13:46:39 IST" name="setup" finished-at="2023-10-01T13:46:43 IST" duration-ms="3528" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyLoginWithValidUsernameAndInvalidPassword()[pri:0, instance:tests.LoginTests@7722c3c3]" started-at="2023-10-01T13:46:43 IST" name="verifyLoginWithValidUsernameAndInvalidPassword" finished-at="2023-10-01T13:46:43 IST" duration-ms="404" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginWithValidUsernameAndInvalidPassword -->
+        <test-method is-config="true" signature="closeDown()[pri:0, instance:tests.LoginTests@7722c3c3]" started-at="2023-10-01T13:46:43 IST" name="closeDown" finished-at="2023-10-01T13:46:43 IST" duration-ms="260" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDown -->
+      </class> <!-- tests.LoginTests -->
+      <class name="tests.LogoutTests">
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.LogoutTests@6dc17b83]" started-at="2023-10-01T13:46:48 IST" name="setup" finished-at="2023-10-01T13:46:51 IST" duration-ms="3500" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyLogout()[pri:0, instance:tests.LogoutTests@6dc17b83]" started-at="2023-10-01T13:46:51 IST" name="verifyLogout" finished-at="2023-10-01T13:46:52 IST" duration-ms="1222" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogout -->
+        <test-method is-config="true" signature="closeDown()[pri:0, instance:tests.LogoutTests@6dc17b83]" started-at="2023-10-01T13:46:52 IST" name="closeDown" finished-at="2023-10-01T13:46:53 IST" duration-ms="298" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDown -->
+      </class> <!-- tests.LogoutTests -->
+      <class name="tests.ProductListTests">
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.ProductListTests@5fdcaa40]" started-at="2023-10-01T13:46:43 IST" name="setup" finished-at="2023-10-01T13:46:47 IST" duration-ms="3488" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyIfProductPriceDisplayed()[pri:0, instance:tests.ProductListTests@5fdcaa40]" started-at="2023-10-01T13:46:47 IST" name="verifyIfProductPriceDisplayed" finished-at="2023-10-01T13:46:47 IST" duration-ms="463" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyIfProductPriceDisplayed -->
+        <test-method is-config="true" signature="closeDown()[pri:0, instance:tests.ProductListTests@5fdcaa40]" started-at="2023-10-01T13:46:47 IST" name="closeDown" finished-at="2023-10-01T13:46:48 IST" duration-ms="300" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDown -->
+      </class> <!-- tests.ProductListTests -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

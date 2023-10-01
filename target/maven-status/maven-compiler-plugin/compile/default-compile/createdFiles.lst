@@ -1,0 +1,5 @@
+base\BasePage.class
+pages\LogoutPage.class
+pages\ProductListPage.class
+pages\LoginPage.class
+utils\PropertyFileReader.class

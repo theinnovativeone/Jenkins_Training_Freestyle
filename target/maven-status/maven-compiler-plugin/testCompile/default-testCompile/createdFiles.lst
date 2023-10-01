@@ -1,0 +1,4 @@
+base\BaseTest.class
+tests\LogoutTests.class
+tests\ProductListTests.class
+tests\LoginTests.class
